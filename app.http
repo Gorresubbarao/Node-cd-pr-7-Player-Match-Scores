@@ -1,0 +1,30 @@
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/players/
+
+###
+
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/players/2/
+
+###
+
+PUT https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/players/2/
+Content-Type: application/json
+
+{
+  "playerName": "Raju"
+}
+
+###
+
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/matches/18/
+
+###
+
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/players/1/matches
+
+###
+
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/matches/5/players
+
+###
+
+GET https://venkatasubbaraohow31njscpscvyl.drops.nxtwave.tech/players/1/playerScores
